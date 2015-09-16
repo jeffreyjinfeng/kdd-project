@@ -1,3 +1,6 @@
+Introduction: 
+This software solves a data mining algorithm: Action Rule
+
 1. To use the ActionRule.jar Runnable File, you need to install Java jre.
     Download Link: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
@@ -10,8 +13,8 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Author: Jinfeng Du   800815618
-        Shanzhen Gao 800781807
+Author: Jinfeng Du  
+        Shanzhen Gao
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Files and folders in the uploaded folder:
